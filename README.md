@@ -112,12 +112,12 @@ My goal is to become a strong software engineer and contribute to impactful prod
 
 ## 🌐 Connect with Me
 
-💼 GitHub: https://github.com/arnasdev
-🛒 Fiverr: https://www.fiverr.com/s/DB4BoWD
-🔗 LinkedIn: https://linkedin.com/in/arnas-foysal-6585bb414
-📧 Email: arnas.codes@gmail.com
-🌍 Portfolio: (working on it)
-💬 Open to collaboration and internships
+- 💼 GitHub: https://github.com/arnasdev
+- 🛒 Fiverr: https://www.fiverr.com/s/DB4BoWD
+- 🔗 LinkedIn: https://linkedin.com/in/arnas-foysal-6585bb414
+- 📧 Email: arnas.codes@gmail.com
+- 🌍 Portfolio: (working on it)
+- 💬 Open to collaboration and internships
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Arnas-Codes&style=flat-square&color=blue"/>
