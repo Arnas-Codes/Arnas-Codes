@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Arnas 👋</h1>
 
 <p align="center">
-  💻 Frontend Developer | 🌱 Learning Full Stack (MERN) | 🚀 Building real-world apps
+   Frontend Developer | Learning Full Stack (MERN) |  Building real-world apps
 </p>
 
 ---
@@ -27,7 +27,7 @@ My goal is to become a strong software engineer and contribute to impactful prod
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 <p align="center">
@@ -51,7 +51,7 @@ My goal is to become a strong software engineer and contribute to impactful prod
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🟢 Frontend Mentor intermediate Projects
 
