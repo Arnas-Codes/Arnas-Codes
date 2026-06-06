@@ -39,15 +39,21 @@ My goal is to become a strong software engineer and contribute to impactful prod
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite,redux" />
 </p>
 
+### Tools
+<p align="center">
+   <img src="https://skillicons.dev/icons?i=git,github" />
+   </p>
+<!-- 
 ### Backend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
+</p> -->
+<!-- 
 ### Database & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,git,github" />
 </p>
+
 
 ---
 
