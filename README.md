@@ -53,7 +53,7 @@ My goal is to become a strong software engineer and contribute to impactful prod
 
 ## 🚀 Featured Projects
 
-### 🟢 Frontend Mentor Projects
+### 🟢 Frontend Mentor intermediate Projects
 
 <p align="center">
   <a href="https://github.com/Arnas-Codes/Landing-Page-FM">
@@ -72,6 +72,12 @@ My goal is to become a strong software engineer and contribute to impactful prod
 
   <a href="https://github.com/Arnas-Codes/Todo-App">
     <img src="https://image.thum.io/get/width/400/crop/800/https://Arnas-Codes.github.io/Todo-App/" width="260"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Arnas-Codes/Space-tourism-website">
+    <img src="https://github.com/user-attachments/assets/1634b517-224f-4969-be5c-57ea85a60620" width="260"/>
   </a>
 </p>
 
