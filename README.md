@@ -43,43 +43,19 @@
 
 
 
-<h3 align="center">Intermediate</h3>
+<h3 align="center">Junior Projects</h3>
 
 <p align="center">
-  <a href="https://github.com/Arnas-Codes/Landing-Page-FM">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arnas-Codes&repo=Landing-Page-FM" />
-  </a>
-
-  <a href="https://github.com/Arnas-Codes/Bank-page">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arnas-Codes&repo=Bank-page" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arnas-Codes&repo=Landing-Page-FM" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arnas-Codes&repo=Bank-page" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arnas-Codes&repo=Job-Listing-App" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arnas-Codes&repo=Todo-App" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arnas-Codes&repo=Chat-app-CSS-illustration" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arnas-Codes&repo=E-Commerce-Page" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arnas-Codes&repo=Space-tourism-website" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Arnas-Codes/Job-Listing-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arnas-Codes&repo=Job-Listing-App" />
-  </a>
 
-  <a href="https://github.com/Arnas-Codes/Todo-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arnas-Codes&repo=Todo-App" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Arnas-Codes/Chat-app-CSS-illustration">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arnas-Codes&repo=Chat-app-CSS-illustration" />
-  </a>
-
-  <a href="https://github.com/Arnas-Codes/E-Commerce-Page">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arnas-Codes&repo=E-Commerce-Page" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Arnas-Codes/Space-tourism-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arnas-Codes&repo=Space-tourism-website" />
-  </a>
-</p>
 </p>
 
 <h3 align="center">Advanced Projects</h3>
