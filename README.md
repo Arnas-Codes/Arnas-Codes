@@ -94,7 +94,7 @@
 
 <p align="center">
   <a href="https://github.com/Arnas-Codes/Space-tourism-website" target="_blank">
-    <img src="[https://image.thum.io/get/width/400/crop/800/https://Arnas-Codes.github.io/Space-tourism-website/](https://private-user-images.githubusercontent.com/274557822/603810840-21362095-fea1-4e15-aa9e-2726e0a82e9a.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODA3MjY3ODAsIm5iZiI6MTc4MDcyNjQ4MCwicGF0aCI6Ii8yNzQ1NTc4MjIvNjAzODEwODQwLTIxMzYyMDk1LWZlYTEtNGUxNS1hYTllLTI3MjZlMGE4MmU5YS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNjA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDYwNlQwNjE0NDBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03YTc4NzlmZjY5ZTQ4Zjk1YjlmMDU1ODczZDYwOWY2ZjBkNWQ4Y2RiNDJjMTgwNTAzZDhlZDBjNzI5NThiNTUwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.SG_oX3s5DO3TCCNMvfbX95vNwhidklRj_McFLlRng1c)" alt="Space Tourism Preview" width="260" style="margin: 5px; border-radius: 6px;" />
+    <img src="https://github.com/user-attachments/assets/3f5184ed-7c40-45cd-a325-10f56d6c44a9" width="260" style="margin: 5px; border-radius: 6px;" />
   </a>
 </p>
 
