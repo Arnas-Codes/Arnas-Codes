@@ -106,11 +106,11 @@
 
 <p align="center">
   <a href="https://github.com/Arnas-Codes/REST-Countries-API" target="_blank">
-    <img src="https://image.thum.io/get/width/400/crop/800/https://Arnas-Codes.github.io/REST-Countries-API/" alt="REST Countries API Preview" width="260" style="margin: 5px; border-radius: 6px;" />
+    <img src="https://github.com/user-attachments/assets/557c1c8d-6169-4356-b4c3-d415ce65f981" alt="REST Countries API Preview" width="260" style="margin: 5px; border-radius: 6px;" />
   </a>
 
   <a href="https://github.com/Arnas-Codes/Multi-step-form" target="_blank">
-    <img src="https://image.thum.io/get/width/400/crop/800/https://Arnas-Codes.github.io/Multi-step-form/" alt="Multi-step Form Preview" width="260" style="margin: 5px; border-radius: 6px;" />
+    <img src="https://github.com/user-attachments/assets/3d9c40f5-df2f-4499-823b-1e701de998fd" alt="Multi-step Form Preview" width="260" style="margin: 5px; border-radius: 6px;" />
   </a>
 </p>
 
