@@ -54,42 +54,63 @@
 
 ---
 
+<h2 align="center">Projects</h2>
+
+---
+
 <h3 align="center">Frontend Mentor</h3>
 
 <h3 align="center">Intermediate</h3>
 
 <p align="center">
-  <a href="https://github.com/Arnas-Codes/Landing-Page-FM">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Arnas-Codes&repo=Landing-Page-FM" />
+  <a href="https://github.com/Arnas-Codes/Landing-Page-FM" target="_blank">
+    <img src="https://image.thum.io/get/width/400/crop/800/https://Arnas-Codes.github.io/Landing-Page-FM/" alt="Landing Page Preview" width="260" style="margin: 5px; border-radius: 6px;" />
   </a>
-  <a href="https://github.com/Arnas-Codes/Bank-page">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Arnas-Codes&repo=Bank-page" />
+
+  <a href="https://github.com/Arnas-Codes/Bank-page" target="_blank">
+    <img src="https://image.thum.io/get/width/400/crop/800/https://Arnas-Codes.github.io/Bank-page/" alt="Bank Page Preview" width="260" style="margin: 5px; border-radius: 6px;" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Arnas-Codes/Job-Listing-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Arnas-Codes&repo=Job-Listing-App" />
+  <a href="https://github.com/Arnas-Codes/Job-Listing-App" target="_blank">
+    <img src="https://image.thum.io/get/width/400/crop/800/https://Arnas-Codes.github.io/Job-Listing-App/" alt="Job Listing App Preview" width="260" style="margin: 5px; border-radius: 6px;" />
   </a>
-  <a href="https://github.com/Arnas-Codes/Todo-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Arnas-Codes&repo=Todo-App" />
+
+  <a href="https://github.com/Arnas-Codes/Todo-App" target="_blank">
+    <img src="https://image.thum.io/get/width/400/crop/800/https://Arnas-Codes.github.io/Todo-App/" alt="Todo App Preview" width="260" style="margin: 5px; border-radius: 6px;" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Arnas-Codes/Chat-app-CSS-illustration">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Arnas-Codes&repo=Chat-app-CSS-illustration" />
+  <a href="https://github.com/Arnas-Codes/Chat-app-CSS-illustration" target="_blank">
+    <img src="https://image.thum.io/get/width/400/crop/800/https://Arnas-Codes.github.io/Chat-app-CSS-illustration/" alt="Chat App Preview" width="260" style="margin: 5px; border-radius: 6px;" />
   </a>
-  <a href="https://github.com/Arnas-Codes/E-Commerce-Page">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Arnas-Codes&repo=E-Commerce-Page" />
+
+  <a href="https://github.com/Arnas-Codes/E-Commerce-Page" target="_blank">
+    <img src="https://image.thum.io/get/width/400/crop/800/https://Arnas-Codes.github.io/E-Commerce-Page/" alt="E-Commerce Page Preview" width="260" style="margin: 5px; border-radius: 6px;" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Arnas-Codes/Space-tourism-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Arnas-Codes&repo=Space-tourism-website" />
+  <a href="https://github.com/Arnas-Codes/Space-tourism-website" target="_blank">
+    <img src="https://image.thum.io/get/width/400/crop/800/https://Arnas-Codes.github.io/Space-tourism-website/" alt="Space Tourism Preview" width="260" style="margin: 5px; border-radius: 6px;" />
   </a>
 </p>
+
+<h3 align="center">Advanced Projects</h3>
+
+<p align="center">
+  <a href="https://github.com/Arnas-Codes/REST-Countries-API" target="_blank">
+    <img src="https://image.thum.io/get/width/400/crop/800/https://Arnas-Codes.github.io/REST-Countries-API/" alt="REST Countries API Preview" width="260" style="margin: 5px; border-radius: 6px;" />
+  </a>
+
+  <a href="https://github.com/Arnas-Codes/Multi-step-form" target="_blank">
+    <img src="https://image.thum.io/get/width/400/crop/800/https://Arnas-Codes.github.io/Multi-step-form/" alt="Multi-step Form Preview" width="260" style="margin: 5px; border-radius: 6px;" />
+  </a>
+</p>
+
+---
 
 <h3 align="center">Advanced Projects</h3>
 
