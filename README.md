@@ -107,6 +107,7 @@ My goal is to become a strong software engineer and contribute to impactful prod
 ## 🌐 Connect with Me
 
 - 💼 GitHub: [Arnas-Codes](https://github.com/Arnas-Codes)
+- 🔗 LinkedIn: [Arnas Foysal](https://linkedin.com/in/arnas-foysal-6585bb414)
 - 📧 Email: your-email@example.com  
 - 🌍 Portfolio: (add if you have one)
 - 💬 Open to collaboration and internships
