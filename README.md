@@ -53,7 +53,7 @@ My goal is to become a strong software engineer and contribute to impactful prod
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,git,github" />
 </p>
-
+-->
 
 ---
 
