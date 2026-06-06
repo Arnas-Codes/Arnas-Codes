@@ -98,6 +98,10 @@
   </a>
 </p>
 
+
+
+---
+
 <h3 align="center">Advanced Projects</h3>
 
 <p align="center">
@@ -107,19 +111,6 @@
 
   <a href="https://github.com/Arnas-Codes/Multi-step-form" target="_blank">
     <img src="https://image.thum.io/get/width/400/crop/800/https://Arnas-Codes.github.io/Multi-step-form/" alt="Multi-step Form Preview" width="260" style="margin: 5px; border-radius: 6px;" />
-  </a>
-</p>
-
----
-
-<h3 align="center">Advanced Projects</h3>
-
-<p align="center">
-  <a href="https://github.com/Arnas-Codes/REST-Countries-API">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Arnas-Codes&repo=REST-Countries-API" />
-  </a>
-  <a href="https://github.com/Arnas-Codes/Multi-step-form">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Arnas-Codes&repo=Multi-step-form" />
   </a>
 </p>
 
