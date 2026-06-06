@@ -115,8 +115,8 @@ My goal is to become a strong software engineer and contribute to impactful prod
 * 💼 GitHub: [@arnasdev](https://github.com/arnasdev)
 * 🛒 Fiverr: [My Fiverr Profile](https://www.fiverr.com/s/DB4BoWD)
 * 🔗 LinkedIn: [Arnas Foysal](https://linkedin.com/in/arnas-foysal-6585bb414)
-* 💬 Discord: arnas_001
 * 📧 Email: [arnas.codes@gmail.com](mailto:arnas.codes@gmail.com)
+* 💬 Discord: arnas_001
 * 🌍 Portfolio: (working on it)
 * 💬 Open to collaboration and internships
 
