@@ -57,49 +57,56 @@ My goal is to become a strong software engineer and contribute to impactful prod
 
 ---
 
-## Featured Projects
+## My Portfolio 
+<p align="center">
+  <a href="https://arnas-codes.github.io/Arnas-Codes-Portfolio/#home">
+    <img src="https://github.com/user-attachments/assets/741fb55a-7463-451f-8715-262153b16dc2" width="260"/>
+  </a>
 
+<!--
 ### 🟢 Frontend Mentor intermediate Projects
-
+1
 <p align="center">
   <a href="https://github.com/Arnas-Codes/Landing-Page-FM">
     <img src="https://image.thum.io/get/width/400/crop/800/https://Arnas-Codes.github.io/Landing-Page-FM/" width="260"/>
   </a>
-
+1
   <a href="https://github.com/Arnas-Codes/Bank-page">
     <img src="https://image.thum.io/get/width/400/crop/800/https://Arnas-Codes.github.io/Bank-page/" width="260"/>
   </a>
 </p>
-
+1
 <p align="center">
   <a href="https://github.com/Arnas-Codes/Job-Listing-App">
     <img src="https://image.thum.io/get/width/400/crop/800/https://Arnas-Codes.github.io/Job-Listing-App/" width="260"/>
   </a>
-
+1
   <a href="https://github.com/Arnas-Codes/Todo-App">
     <img src="https://image.thum.io/get/width/400/crop/800/https://Arnas-Codes.github.io/Todo-App/" width="260"/>
   </a>
 </p>
-
+1
 <p align="center">
   <a href="https://github.com/Arnas-Codes/Space-tourism-website">
     <img src="https://github.com/user-attachments/assets/be3e4d5b-029c-4017-8787-a40189810746" width="260"/>
   </a>
 </p>
-
+1
 ---
-
+1
 ### 🟡 Advanced Projects
-
+1
 <p align="center">
   <a href="https://github.com/Arnas-Codes/REST-Countries-API">
     <img src="https://github.com/user-attachments/assets/557c1c8d-6169-4356-b4c3-d415ce65f981" width="260"/>
   </a>
-
+1
   <a href="https://github.com/Arnas-Codes/Multi-step-form">
     <img src="https://github.com/user-attachments/assets/3d9c40f5-df2f-4499-823b-1e701de998fd" width="260"/>
   </a>
 </p>
+-->
+
 
 ---
 
@@ -123,7 +130,7 @@ My goal is to become a strong software engineer and contribute to impactful prod
 * 🔗 LinkedIn: [Arnas Foysal](https://linkedin.com/in/arnas-foysal-6585bb414)
 * 📧 Email: [arnas.codes@gmail.com](mailto:arnas.codes@gmail.com)
 * 💬 Discord: arnas_001
-* 🌍 Portfolio: (working on it)
+* 🌍 Portfolio: [arnas.codes.com](https://arnas-codes.github.io/Arnas-Codes-Portfolio/#home)
 * 💬 Open to collaboration and internships
 
 <p align="center">
