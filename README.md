@@ -10,12 +10,12 @@
 
 <img src="https://avatars.githubusercontent.com/u/274557822?s=400&v=4" alt="Arnas" width="210" height="210" align="right"/>
 
-- 🎓 College Student (18)
-- 💻 Frontend Developer, currently learning Backend
-- ⚡ Focused on Full Stack Development (MERN)
-- 🚀 Passionate about building real-world applications
-- 📚 Active on Frontend Mentor
-- 🎮 Coding | Anime | Gaming | Analytics
+-  College Student (18)
+-  Frontend Developer, currently learning Backend
+-  Focused on Full Stack Development (MERN)
+-  Passionate about building real-world applications
+-  Active on Frontend Mentor
+-  Coding | Anime | Gaming | Analytics
 
 <br>
 
