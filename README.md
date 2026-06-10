@@ -60,7 +60,7 @@ My goal is to become a strong software engineer and contribute to impactful prod
 ## My Portfolio 
 <p align="center">
   <a href="https://arnas-codes.github.io/Arnas-Codes-Portfolio/#home">
-    <img src="https://github.com/user-attachments/assets/741fb55a-7463-451f-8715-262153b16dc2" width="260"/>
+    <img src="https://github.com/user-attachments/assets/741fb55a-7463-451f-8715-262153b16dc2" width="500"/>
   </a>
 
 <!--
