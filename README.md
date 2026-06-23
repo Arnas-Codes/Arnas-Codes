@@ -132,6 +132,7 @@ My goal is to become a strong software engineer and contribute to impactful prod
 * 📧 Email: [arnas.codes@gmail.com](mailto:arnas.codes@gmail.com)
 * 💬 Discord: arnas_001
 * 🌍 Portfolio: [arnas.codes.com](https://arnas-codes.github.io/Arnas-Codes-Portfolio/#home)
+* 💬 Facebook : [A.Codes](https://www.facebook.com/profile.php?id=61590884627446)
 * 💬 Open to collaboration and internships
 
 <p align="center">
