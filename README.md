@@ -27,6 +27,28 @@ My goal is to become a strong software engineer and contribute to impactful prod
 
 ---
 
+
+## My Portfolio And Projects
+*click to visit
+<p align="center">
+  <a href="https://arnas-codes.github.io/Arnas-Codes-Portfolio/#home">
+    <img src="https://github.com/user-attachments/assets/741fb55a-7463-451f-8715-262153b16dc2" width="500"/>
+  </a>
+
+
+<!-- 
+### Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p> -->
+<!-- 
+### Database & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,git,github" />
+</p>
+-->
+
+---
 ## Tech Stack
 
 ### Languages
@@ -43,26 +65,6 @@ My goal is to become a strong software engineer and contribute to impactful prod
 <p align="center">
    <img src="https://skillicons.dev/icons?i=git,github" />
    </p>
-<!-- 
-### Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p> -->
-<!-- 
-### Database & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,git,github" />
-</p>
--->
-
----
-
-## My Portfolio And Projects
-*click to visit
-<p align="center">
-  <a href="https://arnas-codes.github.io/Arnas-Codes-Portfolio/#home">
-    <img src="https://github.com/user-attachments/assets/741fb55a-7463-451f-8715-262153b16dc2" width="500"/>
-  </a>
 
 <!--
 ### 🟢 Frontend Mentor intermediate Projects
