@@ -4,7 +4,7 @@
    Frontend Developer | Learning Full Stack (MERN) |  Building real-world apps
 </p>
      
----   
+---    
   
 ## 👨‍💻 About Me  
 
