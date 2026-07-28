@@ -38,7 +38,7 @@ My goal is to become a strong software engineer and contribute to impactful prod
 ---
 ## Tech Stack
 
-### Languages
+### Languages 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts" />
 </p>
