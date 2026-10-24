@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Arnas 👋</h1>
  
 <p align="center">
-   Frontend Developer | Learning Full Stack (MERN) |  Building real-world apps
+   | Full-stack web developer |  Building real-world apps
 </p>
      
 ---      
@@ -11,10 +11,9 @@
 <img src="https://avatars.githubusercontent.com/u/274557822?s=400&v=4" alt="Arnas" width="210" height="210" align="right"/>
  
 -  College Student (18)
--  Frontend Developer, currently learning Backend
+-  Currently improving skill
 -  Focused on Full Stack Development (MERN)
 -  Passionate about building real-world applications
--  Active on Frontend Mentor
 -  Coding | Anime | Gaming | Analytics
 
 <br>
